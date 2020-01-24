@@ -1,0 +1,50 @@
+<annotation>
+	<folder>dataset 2.0</folder>
+	<filename>stanzaBiancaOmbre7.jpg</filename>
+	<path>C:\Users\lucas\Desktop\dataset 2.0\stanzaBiancaOmbre7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nera</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>454</xmin>
+			<ymin>33</ymin>
+			<xmax>607</xmax>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>nera</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>743</xmin>
+			<ymin>2</ymin>
+			<xmax>896</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bianca</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>903</xmin>
+			<ymin>1</ymin>
+			<xmax>1066</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+</annotation>

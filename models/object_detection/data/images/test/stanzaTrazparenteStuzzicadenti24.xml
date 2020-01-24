@@ -1,0 +1,50 @@
+<annotation>
+	<folder>dataset 2.0</folder>
+	<filename>stanzaTrazparenteStuzzicadenti24.jpg</filename>
+	<path>C:\Users\lucas\Desktop\dataset 2.0\stanzaTrazparenteStuzzicadenti24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nera</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>638</xmin>
+			<ymin>301</ymin>
+			<xmax>719</xmax>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bianca</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1221</xmin>
+			<ymin>305</ymin>
+			<xmax>1335</xmax>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bianca</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>397</ymin>
+			<xmax>280</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+</annotation>

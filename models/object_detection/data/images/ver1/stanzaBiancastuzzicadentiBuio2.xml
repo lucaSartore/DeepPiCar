@@ -1,0 +1,38 @@
+<annotation>
+	<folder>dataset 2.0</folder>
+	<filename>stanzaBiancastuzzicadentiBuio2.jpg</filename>
+	<path>C:\Users\lucas\Desktop\dataset 2.0\stanzaBiancastuzzicadentiBuio2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nera</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>661</xmin>
+			<ymin>308</ymin>
+			<xmax>808</xmax>
+			<ymax>465</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bianca</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1211</xmin>
+			<ymin>301</ymin>
+			<xmax>1373</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+</annotation>
