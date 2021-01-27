@@ -18,6 +18,8 @@ import pandas as pd
 import tensorflow as tf
 import sys
 
+print(tf.__version__)
+
 sys.path.append("../../models/research")
 
 from PIL import Image
